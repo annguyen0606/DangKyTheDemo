@@ -1,0 +1,37 @@
+E:\AppC#\DangKyThe\Dang Ky The\Dang Ky The\bin\Release\Dang Ky The.exe.config
+E:\AppC#\DangKyThe\Dang Ky The\Dang Ky The\bin\Release\Dang Ky The.exe.manifest
+E:\AppC#\DangKyThe\Dang Ky The\Dang Ky The\bin\Release\Dang Ky The.application
+E:\AppC#\DangKyThe\Dang Ky The\Dang Ky The\bin\Release\Dang Ky The.exe
+E:\AppC#\DangKyThe\Dang Ky The\Dang Ky The\bin\Release\Dang Ky The.pdb
+E:\AppC#\DangKyThe\Dang Ky The\Dang Ky The\bin\Release\DevComponents.DotNetBar2.dll
+E:\AppC#\DangKyThe\Dang Ky The\Dang Ky The\bin\Release\Firebase.dll
+E:\AppC#\DangKyThe\Dang Ky The\Dang Ky The\bin\Release\FireSharp.dll
+E:\AppC#\DangKyThe\Dang Ky The\Dang Ky The\bin\Release\LiteDB.dll
+E:\AppC#\DangKyThe\Dang Ky The\Dang Ky The\bin\Release\Microsoft.Threading.Tasks.dll
+E:\AppC#\DangKyThe\Dang Ky The\Dang Ky The\bin\Release\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+E:\AppC#\DangKyThe\Dang Ky The\Dang Ky The\bin\Release\Microsoft.Threading.Tasks.Extensions.dll
+E:\AppC#\DangKyThe\Dang Ky The\Dang Ky The\bin\Release\Newtonsoft.Json.dll
+E:\AppC#\DangKyThe\Dang Ky The\Dang Ky The\bin\Release\System.Net.Http.Extensions.dll
+E:\AppC#\DangKyThe\Dang Ky The\Dang Ky The\bin\Release\System.Net.Http.Primitives.dll
+E:\AppC#\DangKyThe\Dang Ky The\Dang Ky The\bin\Release\System.Reactive.dll
+E:\AppC#\DangKyThe\Dang Ky The\Dang Ky The\bin\Release\DevComponents.DotNetBar2.xml
+E:\AppC#\DangKyThe\Dang Ky The\Dang Ky The\bin\Release\Firebase.xml
+E:\AppC#\DangKyThe\Dang Ky The\Dang Ky The\bin\Release\LiteDB.xml
+E:\AppC#\DangKyThe\Dang Ky The\Dang Ky The\bin\Release\Microsoft.Threading.Tasks.xml
+E:\AppC#\DangKyThe\Dang Ky The\Dang Ky The\bin\Release\Microsoft.Threading.Tasks.Extensions.xml
+E:\AppC#\DangKyThe\Dang Ky The\Dang Ky The\bin\Release\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+E:\AppC#\DangKyThe\Dang Ky The\Dang Ky The\bin\Release\Newtonsoft.Json.xml
+E:\AppC#\DangKyThe\Dang Ky The\Dang Ky The\bin\Release\System.Net.Http.Extensions.xml
+E:\AppC#\DangKyThe\Dang Ky The\Dang Ky The\bin\Release\System.Net.Http.Primitives.xml
+E:\AppC#\DangKyThe\Dang Ky The\Dang Ky The\bin\Release\System.Reactive.xml
+E:\AppC#\DangKyThe\Dang Ky The\Dang Ky The\obj\Release\Dang Ky The.csproj.App.config
+E:\AppC#\DangKyThe\Dang Ky The\Dang Ky The\obj\Release\Dang Ky The.csprojAssemblyReference.cache
+E:\AppC#\DangKyThe\Dang Ky The\Dang Ky The\obj\Release\Dang_Ky_The.Form1.resources
+E:\AppC#\DangKyThe\Dang Ky The\Dang Ky The\obj\Release\Dang_Ky_The.Properties.Resources.resources
+E:\AppC#\DangKyThe\Dang Ky The\Dang Ky The\obj\Release\Dang Ky The.csproj.GenerateResource.cache
+E:\AppC#\DangKyThe\Dang Ky The\Dang Ky The\obj\Release\Dang Ky The.csproj.CoreCompileInputs.cache
+E:\AppC#\DangKyThe\Dang Ky The\Dang Ky The\obj\Release\Dang Ky The.exe.manifest
+E:\AppC#\DangKyThe\Dang Ky The\Dang Ky The\obj\Release\Dang Ky The.application
+E:\AppC#\DangKyThe\Dang Ky The\Dang Ky The\obj\Release\Dang Ky The.csproj.CopyComplete
+E:\AppC#\DangKyThe\Dang Ky The\Dang Ky The\obj\Release\Dang Ky The.exe
+E:\AppC#\DangKyThe\Dang Ky The\Dang Ky The\obj\Release\Dang Ky The.pdb
